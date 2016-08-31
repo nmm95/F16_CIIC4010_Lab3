@@ -44,5 +44,6 @@ public class MyPanelClass extends JPanel {
                         g.setColor(Color.LIGHT_GRAY);
                         g.fillOval(x1+55, y1+55, width-110, height-110);
             
+                        
 			}
 }
