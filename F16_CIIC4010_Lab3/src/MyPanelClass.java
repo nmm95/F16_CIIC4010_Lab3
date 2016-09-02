@@ -56,18 +56,18 @@ public class MyPanelClass extends JPanel {
                         
                         Polygon p2 = new Polygon();
                         
+                       
                         
-                        
-                        p2.addPoint(x1 + 25, y1 + 73);
-                       p2.addPoint(x1 + 41, y1 + 73);
-                        p2.addPoint(x1 + 47, y1 + 58);
-                        p2.addPoint(x1 + 53, y1 + 73);
-                        p2.addPoint(x1 + 69, y1 + 73);
-                        p2.addPoint(x1 + 56, y1 + 83);
-                        p2.addPoint(x1 + 61, y1 + 98);
-                        p2.addPoint(x1 + 47, y1 + 88);
-                        p2.addPoint(x1 + 34, y1 + 98);
-                        p2.addPoint(x1 + 38, y1 + 83); 
+                       p2.addPoint(x1 + 65, y1 + 113);
+                        p2.addPoint(x1 + 81, y1 + 113);
+                        p2.addPoint(x1 + 87, y1 + 98);
+                        p2.addPoint(x1 + 93, y1 + 113);
+                        p2.addPoint(x1 + 109, y1 + 113);
+                        p2.addPoint(x1 + 96, y1 + 123);
+                        p2.addPoint(x1 + 101, y1 + 138);
+                        p2.addPoint(x1 + 87, y1 + 128);
+                        p2.addPoint(x1 + 74, y1 + 138);
+                        p2.addPoint(x1 + 78, y1 + 123); 
                         g.setColor(Color.WHITE);
                         g.fillPolygon(p2);
                                               
