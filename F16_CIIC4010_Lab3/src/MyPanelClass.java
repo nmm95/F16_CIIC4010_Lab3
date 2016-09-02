@@ -57,8 +57,7 @@ public class MyPanelClass extends JPanel {
                         Polygon p2 = new Polygon();
                         
                        
-                        
-                       p2.addPoint(x1 + 65, y1 + 113);
+                        p2.addPoint(x1 + 65, y1 + 113);
                         p2.addPoint(x1 + 81, y1 + 113);
                         p2.addPoint(x1 + 87, y1 + 98);
                         p2.addPoint(x1 + 93, y1 + 113);
@@ -74,19 +73,7 @@ public class MyPanelClass extends JPanel {
                         
                         
                         
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
+                                      
                         
                         
 			}
